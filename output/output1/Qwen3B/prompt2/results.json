@@ -1,0 +1,133 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            308,
+            450
+        ]
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            200,
+            18
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": []
+    },
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            105,
+            212
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "unsupported operand type(s) for -: 'list' and 'int'"
+    },
+    "../data/model_platform_data/ModelScope/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            -100,
+            -100
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            400,
+            118
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            308,
+            404
+        ]
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            308,
+            18
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            -100,
+            -100
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            105,
+            78
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": {
+        "action": "CLICK",
+        "position": [
+            309,
+            197
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "unsupported operand type(s) for -: 'list' and 'int'"
+    },
+    "../data/model_platform_data/Huggingface/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            -100,
+            -100
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            504,
+            74
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            170,
+            24
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": {
+        "error": "unsupported operand type(s) for -: 'list' and 'int'"
+    },
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            100,
+            118
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "unsupported operand type(s) for -: 'list' and 'int'"
+    },
+    "../data/model_platform_data/OpenCSG/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            -100,
+            -100
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            549,
+            80
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            100,
+            174
+        ]
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            209,
+            20
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            800,
+            226
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            540,
+            20
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            790,
+            552
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            0,
+            -100
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            500,
+            144
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            200,
+            322
+        ]
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            580,
+            788
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            608,
+            757
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            309,
+            146
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": {
+        "action": "CLICK",
+        "position": [
+            504,
+            288
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            308,
+            378
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            840,
+            22
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            808,
+            76
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            300,
+            468
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            177,
+            27
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            100,
+            89
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            209,
+            180
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            300,
+            245
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            0,
+            -100
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            508,
+            144
+        ]
+    }
+}

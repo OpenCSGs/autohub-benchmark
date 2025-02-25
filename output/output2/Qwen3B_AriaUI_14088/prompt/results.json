@@ -1,0 +1,247 @@
+{
+    "../data/code_platform_data/Gitea/githubhome.png": {
+        "action": "CLICK",
+        "position": [
+            304,
+            111
+        ]
+    },
+    "../data/code_platform_data/Gitea/seearch.png": {
+        "action": "CLICK",
+        "position": [
+            60,
+            214
+        ]
+    },
+    "../data/code_platform_data/Gitea/diffusersin.png": {
+        "action": "CLICK",
+        "position": [
+            980,
+            827
+        ]
+    },
+    "../data/code_platform_data/Gitea/issue.png": {
+        "action": "CLICK",
+        "position": [
+            707,
+            94
+        ]
+    },
+    "../data/code_platform_data/Gitea/personpage.png": {
+        "action": "CLICK",
+        "position": [
+            980,
+            834
+        ]
+    },
+    "../data/code_platform_data/Gitea/diffusers.png": {
+        "action": "CLICK",
+        "position": [
+            906,
+            22
+        ]
+    },
+    "../data/code_platform_data/Gitea/signin.png": {
+        "action": "CLICK",
+        "position": [
+            970,
+            838
+        ]
+    },
+    "../data/code_platform_data/Gitlab/githubhome.png": {
+        "action": "CLICK",
+        "position": [
+            30,
+            381
+        ]
+    },
+    "../data/code_platform_data/Gitlab/seearch.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            231
+        ]
+    },
+    "../data/code_platform_data/Gitlab/diffusersin.png": {
+        "action": "CLICK",
+        "position": [
+            103,
+            29
+        ]
+    },
+    "../data/code_platform_data/Gitlab/issue.png": {
+        "action": "CLICK",
+        "position": [
+            209,
+            166
+        ]
+    },
+    "../data/code_platform_data/Gitlab/personpage.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            119
+        ]
+    },
+    "../data/code_platform_data/Gitlab/diffusers.png": {
+        "action": "CLICK",
+        "position": [
+            750,
+            123
+        ]
+    },
+    "../data/code_platform_data/Gitlab/signin.png": {
+        "action": "CLICK",
+        "position": [
+            624,
+            260
+        ]
+    },
+    "../data/code_platform_data/Gitee/githubhome.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            45
+        ]
+    },
+    "../data/code_platform_data/Gitee/seearch.png": {
+        "action": "CLICK",
+        "position": [
+            202,
+            267
+        ]
+    },
+    "../data/code_platform_data/Gitee/diffusersin.png": {
+        "action": "CLICK",
+        "position": [
+            970,
+            25
+        ]
+    },
+    "../data/code_platform_data/Gitee/issue.png": {
+        "action": "CLICK",
+        "position": [
+            960,
+            593
+        ]
+    },
+    "../data/code_platform_data/Gitee/personpage.png": {
+        "action": "CLICK",
+        "position": [
+            750,
+            627
+        ]
+    },
+    "../data/code_platform_data/Gitee/diffusers.png": {
+        "action": "CLICK",
+        "position": [
+            970,
+            25
+        ]
+    },
+    "../data/code_platform_data/Gitee/signin.png": {
+        "action": "CLICK",
+        "position": [
+            405,
+            723
+        ]
+    },
+    "../data/code_platform_data/Github/githubhome.png": {
+        "action": "CLICK",
+        "position": [
+            890,
+            36
+        ]
+    },
+    "../data/code_platform_data/Github/seearch.png": {
+        "action": "CLICK",
+        "position": [
+            190,
+            162
+        ]
+    },
+    "../data/code_platform_data/Github/diffusersin.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            187
+        ]
+    },
+    "../data/code_platform_data/Github/issue.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            381
+        ]
+    },
+    "../data/code_platform_data/Github/personpage.png": {
+        "action": "CLICK",
+        "position": [
+            707,
+            27
+        ]
+    },
+    "../data/code_platform_data/Github/diffusers.png": {
+        "action": "CLICK",
+        "position": [
+            850,
+            37
+        ]
+    },
+    "../data/code_platform_data/Github/signin.png": {
+        "action": "CLICK",
+        "position": [
+            499,
+            60
+        ]
+    },
+    "../data/code_platform_data/GitCode/githubhome.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            377
+        ]
+    },
+    "../data/code_platform_data/GitCode/seearch.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            374
+        ]
+    },
+    "../data/code_platform_data/GitCode/diffusersin.png": {
+        "action": "CLICK",
+        "position": [
+            20,
+            45
+        ]
+    },
+    "../data/code_platform_data/GitCode/issue.png": {
+        "action": "CLICK",
+        "position": [
+            20,
+            32
+        ]
+    },
+    "../data/code_platform_data/GitCode/personpage.png": {
+        "action": "CLICK",
+        "position": [
+            206,
+            587
+        ]
+    },
+    "../data/code_platform_data/GitCode/diffusers.png": {
+        "action": "CLICK",
+        "position": [
+            20,
+            36
+        ]
+    },
+    "../data/code_platform_data/GitCode/signin.png": {
+        "action": "CLICK",
+        "position": [
+            20,
+            30
+        ]
+    }
+}

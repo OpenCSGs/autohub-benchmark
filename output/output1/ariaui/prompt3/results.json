@@ -1,0 +1,36 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": "```(187, 24)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": "```(182, 26)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": "```(189, 26)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": "```(189, 26)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": "```(189, 24)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/2_0_models.png": "```(189, 26)```<|im_end|>",
+    "../data/model_platform_data/ModelScope/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": "```(182, 26)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": "```(89, 29)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": "```(107, 33)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": "```(82, 26)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": "```(82, 26)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": "```(103, 33)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": "```(84, 29)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_0_models.png": "```(83, 28)```<|im_end|>",
+    "../data/model_platform_data/Huggingface/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": "```(89, 29)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": "```(109, 33)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/1_home.png": "```(84, 32)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": "```(103, 30)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": "```(89, 32)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": "```(89, 31)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/2_0_models.png": "```(84, 34)```<|im_end|>",
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": "```(89, 34)```<|im_end|>"
+}

@@ -1,0 +1,72 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/2_0_models.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/Huggingface/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            -100,
+            -100
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/1_home.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/2_0_models.png": {
+        "error": "local variable 'position' referenced before assignment"
+    },
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": {
+        "error": "local variable 'position' referenced before assignment"
+    }
+}

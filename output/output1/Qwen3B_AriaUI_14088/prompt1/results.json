@@ -1,0 +1,184 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            906,
+            24
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_3_deepseek-v3_discussions.png": {
+        "action": "CLICK",
+        "position": [
+            80,
+            362
+        ]
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            23
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            24
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            906,
+            24
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            906,
+            25
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            23
+        ]
+    },
+    "../data/model_platform_data/ModelScope/2_4_deepseek-v3_issue.png": {
+        "action": "CLICK",
+        "position": [
+            101,
+            944
+        ]
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            24
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            25
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_3_deepseek-v3_discussions.png": {
+        "action": "CLICK",
+        "position": [
+            301,
+            247
+        ]
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            806,
+            433
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            25
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            903,
+            25
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": {
+        "action": "CLICK",
+        "position": [
+            806,
+            224
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            80,
+            101
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            304,
+            129
+        ]
+    },
+    "../data/model_platform_data/Huggingface/2_4_deepseek-v3_issue.png": {
+        "action": "CLICK",
+        "position": [
+            909,
+            150
+        ]
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            986,
+            529
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": {
+        "action": "CLICK",
+        "position": [
+            870,
+            32
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/1_home.png": {
+        "action": "CLICK",
+        "position": [
+            807,
+            134
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": {
+        "action": "CLICK",
+        "position": [
+            870,
+            32
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": {
+        "action": "CLICK",
+        "position": [
+            860,
+            32
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": {
+        "action": "CLICK",
+        "position": [
+            870,
+            32
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/2_0_models.png": {
+        "action": "CLICK",
+        "position": [
+            890,
+            32
+        ]
+    },
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": {
+        "action": "CLICK",
+        "position": [
+            986,
+            536
+        ]
+    }
+}

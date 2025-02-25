@@ -1,0 +1,12 @@
+{
+    "1_home.png": "Click on the 'Models' tab to navigate to the models page. ",
+    "2_0_models.png": "Search for the 'deepseek-v3' model on the current page. ",
+    "2_1_deepseek-v3.png": "Click the 'Like' button on this page for the 'deepseek-v3' model. ",
+    "2_2_deepseek-v3_modefile.png": "Click the download icon to download the largest model file in the 'deepseek-v3' files section. ",
+    "2_3_deepseek-v3_discussions.png": "Click on the most recent discussion or pull request on the 'deepseek-v3' discussions page. ",
+    "2_4_deepseek-v3_issue.png": "Summarize the discussion content on this issue page and leave a comment saying, 'Thank you, this is very helpful.' ",
+    "2_5_deepseek-v3_collection.png": "Check how many categories the current model 'deepseek-v3' has in its collections section. ",
+    "3_0_datasets.png": "Use the search or filter function to locate the 'opencsg' dataset on the current page. ",
+    "3_1_opencsg-chinese-fineweb-edu-v2.png": "Summarize the information provided on this page about the 'opencsg-chinese-fineweb-edu-v2' dataset and download the dataset. ",
+    "3_2_opencsg-smoltalk-chinese.png": "Summarize the information provided on this page about the 'opencsg-smoltalk-chinese' dataset and download the dataset. "
+}

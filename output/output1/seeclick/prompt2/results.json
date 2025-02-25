@@ -1,0 +1,36 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": "(0.50,0.93)",
+    "../data/model_platform_data/ModelScope/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": "(0.83,0.02)",
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": "(0.84,0.53)",
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": "(0.11,0.94)",
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": "(0.11,0.16)",
+    "../data/model_platform_data/ModelScope/2_0_models.png": "(0.75,0.89)",
+    "../data/model_platform_data/ModelScope/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": "(0.07,0.53)",
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": "(0.50,0.72)",
+    "../data/model_platform_data/Huggingface/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": "(0.26,0.03)",
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": "(0.98,0.09)",
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": "(0.33,0.15)",
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": "(0.68,0.03)",
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": "(0.10,0.29)",
+    "../data/model_platform_data/Huggingface/2_0_models.png": "(0.86,0.05)",
+    "../data/model_platform_data/Huggingface/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": "(0.12,0.19)",
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": "(0.12,0.97)",
+    "../data/model_platform_data/OpenCSG/1_home.png": "(0.22,0.03)",
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": "(0.98,0.53)",
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": "(0.22,0.18)",
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": "(0.11,0.06)",
+    "../data/model_platform_data/OpenCSG/2_0_models.png": "(0.93,0.95)",
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": "(0.75,0.88)"
+}

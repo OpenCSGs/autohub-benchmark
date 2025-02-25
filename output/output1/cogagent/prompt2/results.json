@@ -1,0 +1,36 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click the 'Home' button at the top left corner of the screen to navigate to the main page.\nGrounded Operation: CLICK(box=[[070,006,121,032]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": "Action: Click on the 'Model Gallery' tab located at the top of the screen to navigate to the model search page.\nGrounded Operation: CLICK(box=[[230,005,276,034]], element_type='可点击文本', element_info='模型库')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": "Action: Click the 'copy' button located at the top right corner of the screen to copy the name of the prompt.\nGrounded Operation: CLICK(box=[[727,120,768,140]], element_type='文本按钮', element_info='复制')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": "Action: Click the 'Community' button located at the bottom of the screen to navigate to the community page.\nGrounded Operation: CLICK(box=[[532,012,552,029]], element_type='可点击文本', element_info='社区')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": "Action: Click on the 'Home' button located at the top left corner of the screen to navigate to the main page.\nGrounded Operation: CLICK(box=[[019,006,087,032]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_0_models.png": "Action: Click on the 'Home' button located at the top left corner of the screen to navigate to the main page.\nGrounded Operation: CLICK(box=[[057,011,085,028]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": "Action: Click on the 'Most downloaded' button located at the top left corner of the screen to sort the models by the number of downloads.\nGrounded Operation: CLICK(box=[[055,395,099,414]], element_type='可点击文本', element_info='Most downloaded')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click on the 'Train' button located at the top left corner of the 'Data Viewer' section to start the training process.\nGrounded Operation: CLICK(box=[[066,276,353,316]], element_type='文本按钮', element_info='Split (1) 188k rows')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": "Action: Click on the 'Models' tab located at the top of the screen to navigate to the models section.\nGrounded Operation: CLICK(box=[[283,117,315,136]], element_type='可点击文本', element_info='Models')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": "Action: Click the 'copy' button located at the top right corner of the screen to copy the name of prompt names.\nGrounded Operation: CLICK(box=[[915,141,932,160]], element_type='图标按钮', element_info='复制按钮')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": "Action: Click the 'Community' button located at the top of the screen, next to the 'Files and versions' tab.\nGrounded Operation: CLICK(box=[[279,137,374,165]], element_type='可点击文本', element_info='Community')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": "Action: Click on the 'DeepSeekV3' link located on the left side of the screen under the 'DeepSeekV3 Collections' section.\nGrounded Operation: CLICK(box=[[066,198,217,223]], element_type='可点击文本', element_info='DeepSeekV3')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": "Action: Click on the second row of the 'conversations' list to view the details of the second conversation.\nGrounded Operation: CLICK(box=[[339,316,429,350]], element_type='可点击文本', element_info='advice-seeking')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_0_models.png": "Action: Click the 'Pricing' link located at the top right corner of the screen to view the pricing information.\nGrounded Operation: CLICK(box=[[827,000,879,046]], element_type='可点击文本', element_info='Pricing')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": "Action: Click the 'Sort by' button located at the top right corner of the screen to open the sorting options.\nGrounded Operation: CLICK(box=[[843,067,932,088]], element_type='文本按钮', element_info='Sort by: Trending')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click the 'Products' dropdown menu at the top of the screen to reveal more options.\nGrounded Operation: CLICK(box=[[471,000,554,053]], element_type='可点击文本', element_info='Products')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/1_home.png": "Action: Click on the 'Models' tab located at the top left corner of the screen to navigate to the models section.\nGrounded Operation: CLICK(box=[[160,015,205,036]], element_type='可点击文本', element_info='Models')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": "Action: Click the 'More' button located at the top right corner of the screen to expand additional options.\nGrounded Operation: CLICK(box=[[649,005,702,046]], element_type='可点击文本', element_info='More')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": "Action: Click the 'Community' tab located at the top of the screen, next to the 'Files' tab.\nGrounded Operation: CLICK(box=[[192,167,262,195]], element_type='可点击文本', element_info='Community')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": "Action: Click the 'More' button located at the top right corner of the screen to reveal additional options.\nGrounded Operation: CLICK(box=[[648,000,710,056]], element_type='可点击文本', element_info='More')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_0_models.png": "Action: Click the 'Products' link located at the top of the page to proceed to the products section.\nGrounded Operation: CLICK(box=[[475,000,554,056]], element_type='可点击文本', element_info='Products')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": "Action: Click on the 'Trending' dropdown menu located at the top right corner of the 'Datasets' section to sort the models by the number of downloads.\nGrounded Operation: CLICK(box=[[830,077,932,105]], element_type='文本按钮', element_info='Trending')\n<<一般操作>>"
+}

@@ -1,0 +1,36 @@
+{
+    "../data/model_platform_data/ModelScope/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[195,005,223,032]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/1_home.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[195,012,217,031]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_1_deepseek-v3.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[195,012,213,030]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_2_deepseek-v3_modefile.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[195,005,227,032]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/3_2_opencsg-smoltalk-chinese.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[193,005,226,034]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_0_models.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[220,014,239,028]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/ModelScope/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/ModelScope/3_0_datasets.png": "Action: Click on the 'Home' button located at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[195,005,223,034]], element_type='可点击文本', element_info='首页')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click the 'Hugging Face' logo located at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[067,014,167,032]], element_type='可点击文本', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_3_deepseek-v3_discussions.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/1_home.png": "Action: Click the 'Hugging Face' logo at the top left corner of the screen to return to the homepage.\nGrounded Operation: CLICK(box=[[066,017,164,041]], element_type='可点击文本', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_1_deepseek-v3.png": "Action: Click the 'Hugging Face' link at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[089,014,165,031]], element_type='可点击文本', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_2_deepseek-v3_modefile.png": "Action: Click on the 'Hugging Face' logo located at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[066,014,168,031]], element_type='可点击文本', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_5_deepseek-v3_collection.png": "Action: Click the 'HuggingFace' button located at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[066,021,164,047]], element_type='图片', element_info='HuggingFace')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/3_2_opencsg-smoltalk-chinese.png": "Action: Click on the 'Hugging Face' logo located at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[066,014,168,032]], element_type='可点击文本', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_0_models.png": "Action: Click the 'Hugging Face' logo at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[062,014,178,033]], element_type='可点击文本', element_info='HuggingFace')\n<<一般操作>>",
+    "../data/model_platform_data/Huggingface/2_4_deepseek-v3_issue.png": {
+        "error": "No query found."
+    },
+    "../data/model_platform_data/Huggingface/3_0_datasets.png": "Action: Click the 'Hugging Face' logo at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[066,014,097,029]], element_type='图标按钮', element_info='Hugging Face')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_1_opencsg-chinese-fineweb-edu-v2.png": "Action: Click the OpenCSG logo at the top left corner of the screen to return to the home page.\nGrounded Operation: CLICK(box=[[067,014,093,037]], element_type='图标按钮', element_info='OpenCSG')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/1_home.png": "Action: Click the OpenCSG button at the top left corner of the screen to navigate to the OpenCSG homepage.\nGrounded Operation: CLICK(box=[[050,000,100,053]], element_type='图标按钮', element_info='OpenCSG')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_1_deepseek-v3.png": "Action: Click the 'DeepSeek' link located in the middle of the screen to navigate to the DeepSeek homepage.\nGrounded Operation: CLICK(box=[[262,306,296,321]], element_type='可点击文本', element_info='DeepSeek')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_2_deepseek-v3_modefile.png": "Action: Click the 'DeepSeek-V3' link at the top left corner of the screen to navigate to the home page.\nGrounded Operation: CLICK(box=[[066,082,166,098]], element_type='可点击文本', element_info='DeepSeek-V3')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_2_opencsg-smoltalk-chinese.png": "Action: Click on the 'OpenCSG' link located at the top left corner of the screen to navigate to the OpenCSG homepage.\nGrounded Operation: CLICK(box=[[066,014,136,037]], element_type='可点击文本', element_info='OpenCSG')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/2_0_models.png": "Action: Click on the 'OpenCSG' link located at the top left corner of the screen to navigate to the home page.\nGrounded Operation: CLICK(box=[[062,014,098,042]], element_type='图标按钮', element_info='OpenCSG')\n<<一般操作>>",
+    "../data/model_platform_data/OpenCSG/3_0_datasets.png": "Action: Click on the 'OpenCSG' link located at the top left corner of the screen to navigate to the homepage.\nGrounded Operation: CLICK(box=[[065,014,136,037]], element_type='可点击文本', element_info='OpenCSG')\n<<一般操作>>"
+}
