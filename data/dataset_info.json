@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "groundtruth": {
+      "feature": {
+        "absolute": {
+          "feature": {
+            "dtype": "float32",
+            "_type": "Value"
+          },
+          "length": 4,
+          "_type": "Sequence"
+        },
+        "relative": {
+          "feature": {
+            "dtype": "float32",
+            "_type": "Value"
+          },
+          "length": 4,
+          "_type": "Sequence"
+        }
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
